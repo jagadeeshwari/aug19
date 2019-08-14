@@ -1,0 +1,5 @@
+  # exclude everything except directory bin/config
+    /*
+    !/bin
+    /config/*
+    !/bin/config
